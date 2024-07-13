@@ -14,7 +14,10 @@ Create interactive and intuitive dashboards using Power BI.
 Visualize key metrics such as total sales, average order value, sales by region, and customer buying behavior.
 
 Expected Benefits:
-*Improved Sales Performance: Better understanding of sales trends and customer preferences to boost sales.
+Improved Sales Performance: Better understanding of sales trends and customer preferences to boost sales.
+
 *Increased Customer Satisfaction: Tailored product offerings and promotions to meet customer needs.
+
 *Optimized Marketing Strategies: Data-driven marketing initiatives to target high-potential customer segments.
+
 *Operational Excellence: Efficient resource allocation and inventory management.
